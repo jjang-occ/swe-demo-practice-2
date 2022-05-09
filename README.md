@@ -7,7 +7,7 @@
 * Then we can git push origin main, or git push -u origin main to set the upstream.
 
 ## Extrastuff feature stuff
-
+Adding stuff from remote main while someone branched.
 Here it is.
 Let's do something else here, not blah.
 Blah: other blah
